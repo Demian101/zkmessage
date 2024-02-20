@@ -11,3 +11,4 @@ You also need to create two (sorry) env files:
 - `prisma/.env` with the same `DATABASE_URL` variable again
 # zkmessage
 # zkmessage
+# zkmessage
